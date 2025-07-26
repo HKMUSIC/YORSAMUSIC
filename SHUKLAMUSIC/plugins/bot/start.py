@@ -31,16 +31,18 @@ from strings import get_string
 
 YUMI_PICS = [
 "https://files.catbox.moe/7l0gg9.jpg",
-"https://files.catbox.moe/dxt02f.jpg",
+"https://files.catbox.moe/b3almo.jpg",
 "https://files.catbox.moe/kr7vi9.jpg",
 "https://files.catbox.moe/3p9dvn.jpg",
+"https://files.catbox.moe/m93qrw.jpg",
+"https://files.catbox.moe/hp4256.jpg",
 
 
 ]
 
 PROMO =  "───────────────────────\n❖ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση ᴧᴠᴧɪʟᴧʙʟє ❖\n───────────────────────\n<blockquote>❍ ᴄʜᴧᴛᴛɪηɢ ɢʀσυᴘ's\n❍ ᴄσʟσʀ ᴛʀᴧᴅɪηɢ ɢᴧϻє's\n❍ ᴄʜᴧηηєʟ's | ɢʀσυᴘ's .....\n❍ ʙєᴛᴛɪηɢ ᴧᴅs σʀ ᴧηʏᴛʜɪηɢ</blockquote>\n\n───────────────────────\nᴘʟᴧηꜱ-\n<blockquote>||● ᴅᴧɪʟʏ\n● ᴡєєᴋʟʏ\n● ϻσηᴛʜʟʏ||</blockquote>\n───────────────────────\n❍ ᴄσηᴛᴧᴄᴛ - [愛 | 𝗦𝗧么𝗟𝗞𝚵𝗥](https://t.me/hehe_stalker)\n───────────────────────"
 GREET = [
-    "💞", "🥂", "🔍", "🧪", "🥂", "⚡️", "🔥",
+    "💞", "🥂", "🔍", "🧪", "🥂", "⚡️", "🔥","❣️","💓",
 ]
 
 
