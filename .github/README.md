@@ -3,7 +3,7 @@
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝐓ɪᴅᴀʟ+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+TIDAL+MUSIC)](https://github.com/HKMUSIC/YORSAMUSIC)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝐘ᴏʀꜱᴀ+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+YORSA+MUSIC)](https://github.com/HKMUSIC/YORSAMUSIC)
 
 
 
@@ -25,7 +25,7 @@
 
 <p>
 <a href="https://t.me/SessionStringZbot"><img src="https://img.shields.io/badge/STALKER%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/TidalXmusicbot-Gen"><img src="https://img.shields.io/badge/TIDAL%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/Yorsamusic_bot-Gen"><img src="https://img.shields.io/badge/YORSA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 
 
 <h3 align="center">
@@ -40,10 +40,10 @@
 
 
 <p align="center">
-<a href="https://telegram.me/ABOUT_STALKER"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 STALKER%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ABOUT_GOJO"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 GOJO%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/HEHE_STALKER"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 OWNER%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/II_YOUR_GOJO_ll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 OWNER%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
