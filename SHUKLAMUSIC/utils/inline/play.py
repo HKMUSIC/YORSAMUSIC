@@ -60,13 +60,13 @@ def stream_markup_timer(_, chat_id, played, dur):
             )
         ],
         [
-            InlineKeyboardButton(text=" ᴜᴘᴅᴀᴛᴇ ", url="https://t.me/drxgiveway",),
-            InlineKeyboardButton(text=" sᴜᴘᴘᴏʀᴛ ", url="https://t.me/drx_supportchat",),
+            InlineKeyboardButton(text=" ᴜᴘᴅᴀᴛᴇ ", url="https://t.me/GOJO_SUPPORT_GROUP_II",),
+            InlineKeyboardButton(text=" sᴜᴘᴘᴏʀᴛ ", url="https://t.me/GOJO_NOBITA_II",),
         ],
         
         [
             
-            InlineKeyboardButton(text=" ˹ ᴛιᴅᴀʟ ᴛᴜɴᴇs ˼ ♪ ", url="http://t.me/TidalXMusicBot/tidaltunes")
+            InlineKeyboardButton(text=" ˹ ʏᴏʀsᴀ ᴛᴜɴᴇs ˼ ♪ ", url="https://yorsa-mini-app/yorsatunes")
         ],
 
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -79,11 +79,11 @@ def stream_markup(_, chat_id):
 
         
         [
-            InlineKeyboardButton(text=" ᴜᴘᴅᴀᴛᴇ ", url="https://t.me/drxgiveway",),
-            InlineKeyboardButton(text=" sᴜᴘᴘᴏʀᴛ ", url="https://t.me/drx_supportchat",),
+            InlineKeyboardButton(text=" ᴜᴘᴅᴀᴛᴇ ", url="https://t.me/GOJO_SUPPORT_GROUP_II",),
+            InlineKeyboardButton(text=" sᴜᴘᴘᴏʀᴛ ", url="https://t.me/GOJO_NOBITA_II",),
         ],
         [
-                   InlineKeyboardButton(text=" ˹ ᴛιᴅᴀʟ ᴛᴜɴᴇs ˼ ♪ ", url="http://t.me/TidalXMusicBot/tidaltunes")
+                   InlineKeyboardButton(text=" ˹ ʏᴏʀsᴀ ᴛᴜɴᴇs ˼ ♪ ", url="https://yorsa-mini-app/yorsatunes")
         ], 
        
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
