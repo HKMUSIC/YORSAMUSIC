@@ -66,7 +66,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         
         [
             
-            InlineKeyboardButton(text=" ˹ ʏᴏʀsᴀ ᴛᴜɴᴇs ˼ ♪ ", url="https://yorsa-mini-app/yorsatunes")
+            InlineKeyboardButton(text=" ˹ ʏᴏʀsᴀ ᴛᴜɴᴇs ˼ ♪ ", url="https://yorsa-mini-app.vercel.app")
         ],
 
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -83,7 +83,7 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text=" sᴜᴘᴘᴏʀᴛ ", url="https://t.me/GOJO_NOBITA_II",),
         ],
         [
-                   InlineKeyboardButton(text=" ˹ ʏᴏʀsᴀ ᴛᴜɴᴇs ˼ ♪ ", url="https://yorsa-mini-app/yorsatunes")
+                   InlineKeyboardButton(text=" ˹ ʏᴏʀsᴀ ᴛᴜɴᴇs ˼ ♪ ", url="https://yorsa-mini-app.vercel.app")
         ], 
        
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
