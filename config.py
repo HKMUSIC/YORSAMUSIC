@@ -16,9 +16,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","HEHE_STALKER")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "TIDALXMUSICBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Yorsamusic_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "TIDAL X MUSIC")
+BOT_NAME = getenv("BOT_NAME" , "YORSA X MUSIC")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "HEHE_STALKER")
 # ---------------------------------------------------------
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/thedrxnet")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/drx_supportchat")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/GOJO_SUPPORT_GROUP_II")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/GOJO_NOBITA_II")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
