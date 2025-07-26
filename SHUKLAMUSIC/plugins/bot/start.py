@@ -32,11 +32,8 @@ from strings import get_string
 YUMI_PICS = [
 "https://files.catbox.moe/7l0gg9.jpg",
 "https://files.catbox.moe/b3almo.jpg",
-"https://files.catbox.moe/kr7vi9.jpg",
-"https://files.catbox.moe/3p9dvn.jpg",
-"https://files.catbox.moe/m93qrw.jpg",
 "https://files.catbox.moe/hp4256.jpg",
-
+"https://files.catbox.moe/m93qrw.jpg",
 
 ]
 
